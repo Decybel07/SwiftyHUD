@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FDA00B0877A7CE75A107990DFF03DC4CC83C7E07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5210F21B8E5E4ED0844D470D7561650484D4BD70" : 9223372036854775807,
+    "FDA00B0877A7CE75A107990DFF03DC4CC83C7E07" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4C24B53F-9A01-478F-908D-58F5EA34059B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5210F21B8E5E4ED0844D470D7561650484D4BD70" : "",
+    "FDA00B0877A7CE75A107990DFF03DC4CC83C7E07" : "SwiftyHUD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftyHUD",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftyHUD.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:CodingLifestyleProjects\/Sudoku.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5210F21B8E5E4ED0844D470D7561650484D4BD70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Decybel07\/SwiftyHUD.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDA00B0877A7CE75A107990DFF03DC4CC83C7E07"
+    }
+  ]
+}
